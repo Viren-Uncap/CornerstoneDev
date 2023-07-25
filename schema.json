@@ -3836,5 +3836,16 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Tab",
+    "enable": "tab",
+    "settings": [
+      {
+        "type": "text",
+        "id": "tab_title",
+        "label": "Tab title"
+      }
+    ]
   }
 ]
