@@ -3847,5 +3847,16 @@
         "label": "Tab title"
       }
     ]
+  },
+  {
+    "name": "AnnouncementBar",
+    "enable": "announcementbar",
+    "settings": [
+      {
+        "type": "text",
+        "label": "AnnouncementBarText",
+        "id": "announcement_bar_text"
+      }
+    ]
   }
 ]
