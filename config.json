@@ -749,7 +749,8 @@
         "masterpass-button-color": "black",
         "paymentbuttons-provider-sorting": [
 
-        ]
+        ],
+        "announcement_bar_text": "Free Shipping on orders"
       }
     },
     {
