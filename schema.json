@@ -3855,7 +3855,8 @@
       {
         "type": "text",
         "label": "AnnouncementBarText",
-        "id": "announcement_bar_text"
+        "id": "announcement_bar_text",
+        "default": "Test 123 here..."
       }
     ]
   }
